@@ -1168,3 +1168,8 @@ footer .links i {
 footer .links i:hover {
     color: rgb( 153, 102, 204);
 }
+@media (min-height: 1100px) {
+    .main_page {
+        min-height: 0;
+    }
+}
